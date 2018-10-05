@@ -1,0 +1,2 @@
+export const GET_HOTELS = 'GET_HOTELS'
+export const GET_HOTELS_REJECTED = 'GET_HOTELS_REJECTED'
